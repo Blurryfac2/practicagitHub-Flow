@@ -10,3 +10,10 @@ header {
 header img {
   border-radius: 50%;
 }
+
+#perfil {
+  padding: 20px;
+  background-color: #ffffff;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
