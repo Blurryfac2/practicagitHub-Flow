@@ -64,9 +64,24 @@ header img {
   #contacto button:hover {
     background-color: #0056b3;
   }
+
+
+  #proyectos {
+ background-color: #f9f9f9;
+ padding: 20px;
+}
+#proyectos ul {
+ list-style-type: none;
+}
+#proyectos a {
+ color: #0077cc;
+=======
 #perfil {
   padding: 20px;
   background-color: #ffffff;
   text-align: center;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
+  
+  
