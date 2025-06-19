@@ -10,7 +10,6 @@ header {
 header img {
   border-radius: 50%;
 }
-
 #contacto {
     max-width: 500px;
     margin: 40px auto;
@@ -65,3 +64,9 @@ header img {
   #contacto button:hover {
     background-color: #0056b3;
   }
+#perfil {
+  padding: 20px;
+  background-color: #ffffff;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
